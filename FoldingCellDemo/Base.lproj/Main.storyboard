@@ -121,7 +121,7 @@ April</string>
                                                             <nil key="highlightedColor"/>
                                                         </label>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="J" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8vF-le-rtz">
-                                                            <rect key="frame" x="8" y="58" width="126" height="102"/>
+                                                            <rect key="frame" x="8" y="58" width="144" height="102"/>
                                                             <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                             <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                             <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -140,7 +140,7 @@ April</string>
                                                         <constraint firstItem="hl9-Ax-aB4" firstAttribute="top" secondItem="8vF-le-rtz" secondAttribute="bottom" constant="8" id="FIA-i1-waQ"/>
                                                         <constraint firstItem="JSA-f9-JBX" firstAttribute="leading" secondItem="GMf-3K-6aX" secondAttribute="leading" id="NBE-h7-8XJ"/>
                                                         <constraint firstItem="684-hK-RbL" firstAttribute="top" secondItem="o3m-j6-Kfo" secondAttribute="bottom" constant="8" id="SB7-s5-kYt"/>
-                                                        <constraint firstItem="0et-2z-18l" firstAttribute="leading" secondItem="8vF-le-rtz" secondAttribute="trailing" constant="40" id="Sjb-g2-hK4"/>
+                                                        <constraint firstItem="0et-2z-18l" firstAttribute="leading" secondItem="8vF-le-rtz" secondAttribute="trailing" constant="22" id="Sjb-g2-hK4"/>
                                                         <constraint firstAttribute="trailing" secondItem="0et-2z-18l" secondAttribute="trailing" constant="8" id="YVR-vA-hUb"/>
                                                         <constraint firstItem="o3m-j6-Kfo" firstAttribute="height" secondItem="yZo-o4-XF2" secondAttribute="height" id="Yh8-ag-ly4"/>
                                                         <constraint firstItem="684-hK-RbL" firstAttribute="width" secondItem="o3m-j6-Kfo" secondAttribute="width" id="YjV-t8-r4V"/>
